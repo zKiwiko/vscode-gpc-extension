@@ -2,6 +2,9 @@
 
 This extension adds full GPC Scripting support for Visual Studio Code, offering a wide range of features and tools to enhance your development experience.
 
+# ⚠️⚠️ WARNING ⚠️⚠️
+This Extension is deprecated and will no longer receive updates or support. Please use the extension "GPC Language Support" instead.
+
 ## Features
 ### Language Support
 - Full syntax highlighting for GPC files
